@@ -1,4 +1,4 @@
-# Seasonal-songs
+# Seasonal songs
 
 ## Skills & Tech Stack
 <img src="https://img.shields.io/badge/django-20232a.svg?style=for-the-badge&logo=react&logoColor=092E20" /> <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=react&logoColor=3776AB" /> <img src="https://img.shields.io/badge/html5-20232a.svg?style=for-the-badge&logo=react&logoColor=E34F26" /> <img src="https://img.shields.io/badge/css3-20232a.svg?style=for-the-badge&logo=react&logoColor=1572B6" /> <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=react&logoColor=F7DF1E" /> 
@@ -12,6 +12,15 @@
 | :----------------------------------------------------------: | :---------------------------------------------: | :-------------------------------------------------: | :---------------------------------------------: | :-------------------------------------------------: |
 <br/>
 
-## 데이터 수집
+## 구현 화면
+### 메인
+<img src="https://github.com/4-2-teamproject/Seasonal-songs/blob/main/img/spring_main.png" width="500" height="1000"/> <img src="https://github.com/4-2-teamproject/Seasonal-songs/blob/main/img/winter_main.png" width="500" height="1000"/> 
 
-## 데이터 시각화
+
+
+### 모달
+<img src="https://github.com/4-2-teamproject/Seasonal-songs/blob/main/img/spring_modal.png" width="500"/> <img src="https://github.com/4-2-teamproject/Seasonal-songs/blob/main/img/winter_modal.png" width="500"/>
+
+
+## 프레임 워크 및 배포 환경
+![Captum](./img/framework.png)
