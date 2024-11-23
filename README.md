@@ -13,6 +13,10 @@
 <br/>
 
 ## 구현 화면
+### prototype
+![Captum](./img/1.png) ![Captum](./img/2.png)
+
+
 ### 메인
 <img src="https://github.com/4-2-teamproject/Seasonal-songs/blob/main/img/spring_main.png" width="500" height="1000"/> <img src="https://github.com/4-2-teamproject/Seasonal-songs/blob/main/img/winter_main.png" width="500" height="1000"/> 
 
